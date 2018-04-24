@@ -66,7 +66,7 @@ public class IslandsCounterImplTest {
     }
 
     @Test
-    public void shouldReturns0WhenEmptyMapGiven() {
+    public void shouldCountsIslandsForGivenBinaryMap() {
         // given
 
         // when
